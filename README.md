@@ -1,5 +1,6 @@
 # Naive-Bayes-Classification
-Simple Naive Bayes Algorithm implementation in Python using Contact Lenses Dataset from UCI Machine Learning Repository.
+Simple Naive Bayes Algorithm implementation in Python using Contact Lenses Dataset from UCI Machine Learning Repository.<br>
+https://archive.ics.uci.edu/ml/datasets/lenses <br>
 
 As you see I didnt use any Libraries like scikit-learn at all. <br>
 I tryied to make it "by hand", and it helped me a lot to undrastand the algorithm.
